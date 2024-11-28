@@ -12,4 +12,4 @@
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
   
-![foto](https://github.com/user-attachments/assets/3c2df3cf-4c5b-4ba6-b4db-5f179b38d0c5)
+![Python-Logo](https://github.com/user-attachments/assets/9690d56b-700e-4a32-a4f4-1760905432c9)
