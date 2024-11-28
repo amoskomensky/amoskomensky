@@ -4,17 +4,15 @@
 - 🌱 I’m currently learning Kubernetes, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: amoskomensky8@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
-  
-![Python-Logo](https://github.com/user-attachments/assets/9690d56b-700e-4a32-a4f4-1760905432c9)
-
+# Languages, Tools and Frameworks   
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
+<img align="left" alt="html5" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
+<img align="left" alt="java" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-java.png" />
+<img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
+<img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
+<img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
+<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/miroslav.reiter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vita_academy_slovakia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miroslav-reiter/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://sk.pinterest.com/vita_academy_slovakia/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@vita_academy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/ITAcademySK) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/itacademysk) 
